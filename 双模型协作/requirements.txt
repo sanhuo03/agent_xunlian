@@ -1,0 +1,7 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu118
+openai==2.44.0
+python-dotenv==1.2.2
+gradio==6.19.0
+huggingface-hub==1.21.0
+socksio==1.0.0
+llama-cpp-python==0.3.32
