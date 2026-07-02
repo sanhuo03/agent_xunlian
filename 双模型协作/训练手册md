@@ -1,4 +1,4 @@
-# Agent03: DeepSeek + Hrida 双模型协作
+DeepSeek + Hrida 双模型协作
 
 本项目实现 DeepSeek + Hrida-T2SQL-3B 双模型协作的智能数据库查询 Agent。
 
